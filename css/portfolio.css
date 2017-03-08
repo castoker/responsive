@@ -1,0 +1,72 @@
+h1, h2, h3, h4, h5, h6,
+figure, ul, p{
+	margin: 0;
+}
+body{
+	background: #dedede;
+	margin: 0;
+}
+.header {
+	width: 100%;
+}
+.header .nav{
+	background-color: #2e8ece;
+	padding: 10px 0;
+}
+.header .nav .miul {
+	width: 900px;
+	margin: 0 auto;
+}
+.nav .miul .list {
+	display: inline;
+	color: white;
+	font-size: 22px;
+	padding: 12px 12px;
+}
+.nav .miul .select {
+	background-color: black;
+}
+.miprofile {
+	background: url('../img/fondo.jpg');
+	background-size: cover;
+}
+.miprofile .figure{
+	text-align: center;
+	width: 600px;
+	margin: 0px auto;
+	padding: 10px 0;
+}
+.miprofile .figure .miavatar {
+	width: 50%;
+	border-radius: 50%;
+	border: 10px solid white;
+}
+main {
+	width: 100%;
+	background-color: white;
+}
+main .sections{
+	width: 900px;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+main .sections .miheader {
+	background-color: #c0392b;
+	margin-bottom: 10px;
+}
+.sections .miheader h2 {
+	color: white;
+	padding: 10px 5px;
+}
+.sections .mishabilidadescont{
+	overflow: hidden;
+}
+.sections .mishabilidadescont .uliz, .ulde{
+	width: 250px;
+}
+.sections .mishabilidadescont .uliz{
+	float: left;
+}
+.sections .mishabilidadescont .ulde{
+	float: right;
+}
