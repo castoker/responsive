@@ -10,7 +10,7 @@ body{
 	width: 100%;
 }
 .header .nav{
-	background-color: #2e8ece;
+	background-color: #ededed;
 	padding: 10px 0;
 }
 .header .nav .miul {
@@ -19,12 +19,12 @@ body{
 }
 .nav .miul .list {
 	display: inline;
-	color: white;
+	color: black;
 	font-size: 22px;
 	padding: 12px 12px;
 }
 .nav .miul .select {
-	background-color: black;
+	background-color: white;
 }
 .miprofile {
 	background: url('../img/fondo.jpg');
